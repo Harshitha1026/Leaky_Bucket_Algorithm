@@ -1,1 +1,1 @@
-# Leaky_Bucket_Algorithm
+# It is a Computer Graphics and Visualization(CGV) project which shows the working of Leacky Bucket Algorithm. The algorithm works similarly to the way an actual leaky bucket holds water: The leaky bucket takes data and collects it up to a maximum capacity. Data in the bucket is only released from the bucket at a set rate and size of packet. When the bucket runs out of data, the leaking stops.
